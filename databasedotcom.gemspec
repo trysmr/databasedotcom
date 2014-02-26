@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.files         = Dir['README.md', 'MIT-LICENSE', 'lib/**/*']
   s.require_paths = ['lib']
 
-  s.add_dependency 'multipart-post', '~> 1.1'
+  s.add_dependency 'multipart-post'
   s.add_dependency 'json'
   s.add_dependency 'activesupport'
 
