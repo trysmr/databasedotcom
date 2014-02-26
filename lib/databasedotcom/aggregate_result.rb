@@ -1,0 +1,1 @@
+require 'databasedotcom/aggregate_result/aggregate_result'
